@@ -8,14 +8,14 @@ from sqlalchemy import create_engine, func
 from flask import Flask, jsonify
 from flask import Flask
 # to access the SQLite database
-engine = create_engine("sqlite:///hawai.sqlite")
+engine = create_engine("sqlite:///hawaii.sqlite")
 Base= automap_base()
 #the Python Flask function to reflect the tables
 Base.prepare()
 #to reflect the database
 Base.prepare(engine,reflect=True)
 #to create variables measurment and station
-Base.classes.keys()
+print (Base.classes.keys())
 
 Measurement=Base.classes.measurement
 
