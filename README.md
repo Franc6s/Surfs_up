@@ -26,3 +26,13 @@ from the table above, we can see that the lowest temperatur recorded is 64 degre
 ### The table below shows a summary statistics for the month of december
 
 ![Screen Shot 2021-04-27 at 10 08 12 PM](https://user-images.githubusercontent.com/78506782/116335559-10e7c800-a7a5-11eb-9892-ed67af73ef32.png)
+
+from the table above, the lowest temperature is 56 degrees, and the highest is 83 degrees, with an average of 71 degrees.
+
+## Summary
+
+Given the statistics in this project, we can see that :
+- Temperatures in December a a bit lower than temperatures in June
+- The temperature in Hawaii is fairly warm all year long, which is good for Avy to open a Surfs shop
+
+However, I would suggest to have a quarterly report on temperatures to have a more accurate conclusion. Also, it is important to know the frequency of rains over the span of 3 - 5 years. With that, Avy can know the probability of rainfall and include it in the feasibility study of her project.
